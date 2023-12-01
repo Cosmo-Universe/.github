@@ -1,5 +1,12 @@
 ## Hi there 👋 I'm Duy Nam
 
+Other languages:
+- [GERMAN / Deutsch](#internationale-gesellschaft-des-cosmo-universe-labotorium)
+- [LATINA / ](#cosmo-universo-laboratorio-internationali-societatis)
+- [JAPANESE / 日本語](#コスモユニバース研究所-国際協会)
+- [CHINESE / 中國人](#國際程式語言理解協會宇宙實驗室)
+
+
 # Cosmo Universe Laboratory International Society (Association) (CULIS) 🗺️
 
 > **Note:**: We need people who want to collapse with us and develop new technology.
@@ -23,7 +30,7 @@
 - ... (more)
 
 ## What is Cosmolang?
-Cosmolang operates across various abstraction levels, denoted by numerical values. These levels represent different abstraction tiers within the language, with higher numbers signifying increased abstraction.
+Cosmolang opera.tes across various abstraction levels, denoted by numerical values. These levels represent different abstraction tiers within the language, with higher numbers signifying increased abstraction.
 
 * Level 0 corresponds to a low-level representation akin to working with bits.
 * Level 1 embodies an assembly language abstraction, offering more advanced operations than raw bits.
