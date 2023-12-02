@@ -117,7 +117,7 @@ In diesem Abschnitt finden sich z.B. Cosmolang Modular
 
 # Cosmo Universo Laboratorio Internationali Societatis
 
-> ** Nota: **: Opus est hominibus qui nobiscum collabi volunt et novas technologias explicant.
+> **Nota:**: Opus est hominibus qui nobiscum collabi volunt et novas technologias explicant.
 
 ## Current Projects
 - Cosmolang Architecture Research Fabricae (Carl)
