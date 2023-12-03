@@ -1,15 +1,15 @@
 ## Hi there 👋 I'm Duy Nam
 
 Other languages:
-- [GERMAN / Deutsch](#internationale-gesellschaft-des-cosmo-universe-labotorium)
-- [LATINA / ](#cosmo-universo-laboratorio-internationali-societatis)
+- [GERMAN / Deutsch](#internationale-gesellschaft-des-cosmo-universe-labotorium-(Verband))
+- [French / Française][]
 - [JAPANESE / 日本語](#コスモユニバース研究所-国際協会)
 - [CHINESE / 中國人](#國際程式語言理解協會宇宙實驗室)
 
 
 # Cosmo Universe Laboratory International Society (Association) (CULIS) 🗺️
 
-> **Note:**: We need people who want to collapse with us and develop new technology.
+> **Note:** We need people who want to collapse with us and develop new technology.
 
 ## Current Projects
 - Cosmolang Architecture Research Labs (CARL)
@@ -61,9 +61,9 @@ The hybrid is a compiler and a interpreter. They use both pro. Cosmolang Bytecod
 - Interpreter
 In this section there are e.G. Cosmolang Modular
 
-# Internationale Gesellschaft des Cosmo Universe Labotorium 
+# Internationale Gesellschaft des Cosmo Universe Labotorium (Verband)
 
-> **Hinweis:**: Wir brauchen Menschen, die mit uns zusammenarbeiten und neue Technologien entwickeln wollen.
+> **Hinweis:** Wir brauchen Menschen, die mit uns zusammenarbeiten und neue Technologien entwickeln wollen.
 
 ## Aktuelle Projekte
 - Cosmolang Architecture Research Labs (CARL)
@@ -115,63 +115,63 @@ Der Hybrid ist ein Compiler und ein Interpreter. Sie nutzen beide Profis. Cosmol
 - Intterpreter
 In diesem Abschnitt finden sich z.B. Cosmolang Modular
 
-# Cosmo Universo Laboratorio Internationali Societatis
+# Société Internationale du Laboratoire Cosmo Univers (Association)
 
-> **Nota:**: Opus est hominibus qui nobiscum collabi volunt et novas technologias explicant.
+> **Remarque :** Nous avons besoin de personnes qui souhaitent travailler avec nous et développer de nouvelles technologies.
 
-## Current Projects
-- Cosmolang Architecture Research Fabricae (Carl)
+## Projets actuels
+- Laboratoires de recherche en architecture Cosmolang (CARL)
 - Cosmolang
-- Integrated System Iniectio Control Operatio (UISICO)
-- UniCode interface (UCTI)
-- CosASM ~ Cosmo Asssembler
-- * Cosmo Terminal Promptus Client
-- * Cosmo Operation System
-- CosMAI ~ Cosmo Modular AI
-- Cosmolang Modular
-- Cosmus Lingua
-- Cosmo Lingua Token Programming Language (CLTPL)
-- Integrated Syntax Pprogramming Language (ISPL)
-- Indexing Programming Language (IPL) !Important!
-- Cosmolang Language Transformatio et Integratio Platform (CLTAPL)
-- Programming Language Integration Grading Ratio affinitatis Function (PLIGSAF)
-- ... (more)
+- Fonctionnement du contrôle d'injection du système intégré (UISICO)
+- Interface de traduction UniCode (UCTI)
+- CosASM ~ Cosmo Assembleur
+- * Client d'invite du terminal Cosmo
+- * Système d'exploitation Cosmo
+- CosMAI ~ Cosmo IA modulaire
+- Cosmolang Modulaire
+-Cosmo Lingua
+- Langage de programmation de jetons Cosmo Lingua (CLTPL)
+- Langage de programmation syntaxique intégré (ISPL)
+- Langage de programmation d'indexation (IPL) !Important !
+- Plateforme de transformation et d'intégration du langage Cosmolang (CLTAPL)
+- Fonction d'affinité du système de notation d'intégration du langage de programmation (PLIGSAF)
+- ... (plus)
 
-## Quid est Cosmolang?
-Cosmolang operatur per varias abstractiones gradus, per valores numerales designatos. Hi gradus abstractiones varias in lingua significant, cum numeris altioribus abstractionem auctam significantibus.
+## Qu'est-ce que Cosmolang ?
+Cosmolang fonctionne à différents niveaux d'abstraction, indiqués par des valeurs numériques. Ces niveaux représentent différents niveaux d'abstraction au sein du langage, les nombres plus élevés indiquant une abstraction accrue.
 
-* Planum 0 repraesentationi humili gradu affine cum frenis laborat.
-* Gradu 1 involvit synagogam linguae abstractionem, provectiorem operationem quam rudis praebens calcaria.
-* Gradu 2 adsimilat cum Systematis Level Linguis Operating, providens functionalities et operationes quae arctius cum systemate operante inter se occurrunt.
+* Le niveau 0 correspond à une représentation de bas niveau, similaire au travail avec des bits.
+* Le niveau 1 incarne une abstraction du langage assembleur et fournit des opérations avancées sous forme de bits bruts.
+* Le niveau 2 est basé sur les langages au niveau du système d'exploitation et fournit des fonctionnalités et des opérations qui interagissent plus étroitement avec le système d'exploitation.
 
-Cosmolang versatilis est in sua facultate seamlessly per has gradus abstractionis fungendi. Sive in aliquantulo gradu ad certas moderationis adhibitas, sicut lingua conventus ad operationes provectiores, vel sicut lingua OS gradu ad interactiones systematis graduum, Cosmolang variis programmandi necessitatibus et complexionibus adaptat. Haec flexibilitas efficit ut tincidunt ad operandum variis gradibus abstractionis intra linguam suam sicut per eorum requisita.
+Cosmolang est polyvalent dans sa capacité à fonctionner de manière transparente à travers ces niveaux d'abstraction. Que ce soit au niveau bit pour un contrôle précis, en tant que langage assembleur pour des opérations plus avancées ou en tant que langage au niveau du système d'exploitation pour les interactions au niveau du système, Cosmolang s'adapte à divers besoins et complexités de programmation. Cette flexibilité permet aux développeurs de travailler avec différents niveaux d'abstraction au sein du langage en fonction de leurs besoins.
 
-Cosmolang programmatio provectus est lingua quae coding variis linguis enuntiatis sicut Mandarin vel Germanica concedit. Cosmolang speciatim destinata ad applicationes technicas provectas dat, Cosmolang tincidunt ad scribendum codicem in lingua praelata, accessibilitatem et usbilitatem in global iunctionibus augens. Plethoram praebet lineamentorum et instrumentorum ad solvendas difficultates technologicas et artis solutiones incompositas. Cosmolang intendit ut lacunam inter linguam et technologiam ponas, programmandi magis pervias per varias culturas et regiones faciens.
+Cosmolang est un langage de programmation avancé qui permet de coder dans diverses langues parlées comme le mandarin ou l'allemand. Conçu spécifiquement pour les applications techniques avancées, Cosmolang permet aux développeurs d'écrire du code dans leur langage préféré, améliorant ainsi l'accessibilité et la convivialité au sein des équipes mondiales. Il offre une multitude de fonctionnalités et d'outils pour résoudre des problèmes technologiques complexes et développer des solutions innovantes. Cosmolang vise à combler le fossé entre le langage et la technologie et à rendre la programmation plus accessible à différentes cultures et pays.
 
-Cosmolang praebet flexibilitatem ad syntaxes varias integrandas per Indexing programmationis Linguae (***IPL***)** et Syntaxis Pprogramming Linguae integrae (***ISPL***)**. Developers qui syntaxin Pythonis praeferunt optionem habent ut ea in Cosmolang instituendo per Transformationem et Integration Platform Linguam Cosmolang (CLTAPL).
+Cosmolang offre la flexibilité d'intégrer diverses syntaxes via le **Langage de programmation d'indexation (***IPL***)** et le **Langage de programmation de syntaxe intégré (***ISPL***)**. Les développeurs qui préfèrent la syntaxe de Python ont la possibilité de l'utiliser dans Cosmolang en l'installant via la plateforme de transformation et d'intégration du langage Cosmolang (CLTAPL).
 
-### Abstractio gradus:
-IPL, ISPL et UISICO sunt principales nuclei Cosmolang. Interface sunt quae inter se communicant. Si plura legere vis, vade ad [Google (Click here)](https://docs.google.com/document/d/1mBSlSZudinbNahXsLd-zUwUrXeveHst2-VP4t8-ChV8/edit?usp=sharing)
+### Les niveaux d'abstraction :
+IPL, ISPL et UISICO sont les principaux noyaux de **Cosmolang**. Ce sont des interfaces qui communiquent entre elles. Si vous souhaitez en savoir plus, accédez à [Google (cliquez ici)](https://docs.google.com/document/d/1mBSlSZudinbNahXsLd-zUwUrXeveHst2-VP4t8-ChV8/edit?usp=sharing)
 
-Haec integratio permittit utentes qui cum Pythone syntaxi sunt familiares uti in ambitu Cosmolang. CLTPL agit suggestum mutandi et integrandi varias syntaxes, dans tincidunt facultatem utendi syntaxi sciant et praeferant dum vim et commoda Cosmolang levant. In Pythone scribes sed codicem in compilator currendum et exsecutabile habebis.
+Cette intégration permet aux utilisateurs familiarisés avec la syntaxe Python de l'utiliser dans l'environnement Cosmolang. Le CLTPL agit comme une plate-forme de transformation et d'intégration de diverses syntaxes, donnant aux développeurs la possibilité d'utiliser la syntaxe qu'ils connaissent et préfèrent tout en tirant parti de la puissance et des avantages de Cosmolang. Vous écrivez en Python, mais le code s'exécute dans un compilateur et vous obtenez un exécutable.
 
-Cum ISPL in Cosmolang, tincidunt varias syntaxes incorporare et uti possunt, ut syntaxin Pythonis, eas in linguam per unam et cohaerentem systema integrando. Hoc dat utentes ad operandum pluribus syntaxibus intra compage Cosmolang, magis inclusive et versatilem experientiam programmandi fovendo. Integrata Syntaxis Programmationis Linguae redundat processus integrationis, permittens pro cohaerentia mixtionis diversarum syntaxum ad optiones et necessitates tincidunt aptandas.
+ISPL dans Cosmolang permet aux développeurs d'intégrer et d'exploiter diverses syntaxes, telles que la syntaxe Python, en les intégrant dans le langage via un système unifié et cohérent. Cela permet aux utilisateurs de travailler avec plusieurs syntaxes dans le framework Cosmolang, favorisant ainsi une expérience de programmation plus riche et plus polyvalente. Le langage de programmation de syntaxe intégré rationalise le processus d'intégration et permet un mélange cohérent de différentes syntaxes pour répondre aux préférences et aux besoins des développeurs.
 
-> IPL: IPL programmatio linguae est quae in functionibus et operibus indexing graviter intenditur. Usus IPL in Cosmolang optimizat indicem notitiarum et indices administrationis intra codicem. Hoc potest adiuvare tincidunt accessum, ordinare et manipulare notitias efficienter, praesertim cum ad notitias multiplices structuras vel magnas notitias accedat.
+> IPL : IPL est un langage de programmation fortement axé sur les fonctions et opérations d'indexation. L'utilisation d'IPL dans Cosmolang optimise l'indexation des données et la gestion des index au sein du code. Cela peut aider les développeurs à accéder, à organiser et à manipuler efficacement les données, en particulier lorsqu'il s'agit de structures de données complexes ou de grandes quantités de données.
 
-## Genus Cosmolang
-- Interfaces
-In hac sectione fasciculum interfaces sicut IPL sunt. In IPL ratio administrandi resource est. Syntax emeddita in hoc IPL currere potest et in aliis speciebus in hoc programmandi sermone interpretari.
-- Compiler
-In classic compilator tamquam Cosmolang
-- Hyprid
-Hybrida est compilator et interpres. Utuntur utroque pro. Cosmolang Bytecode magnum officium facite!
-- Interpres
-In hac sectione sunt e.G. Cosmolang Modular
+## Le style de Cosmolang
+-Interfaces
+Dans cette section, vous trouverez un certain nombre d'interfaces telles que l'IPL. L'IPL est un système de gestion de ressources. La syntaxe intégrée peut être exécutée dans cet IPL et traduite en d'autres types dans ce langage de programmation.
+- Compilateurs
+Le compilateur classique est similaire à Cosmolang
+- Hybride
+L'hybride est un compilateur et un interprète. Ils font tous deux appel à des professionnels. Cosmolang Bytecode fait un excellent travail !
+- Interprète
+Dans cette section vous trouverez par exemple Cosmolang Modular
 
 # コスモユニバース研究所 国際協会
 
-> **注意:**: 私たちには、私たちと一緒に崩壊して新しいテクノロジーを開発したいと考えている人々が必要です。
+> **注意:** 私たちには、私たちと一緒に崩壊して新しいテクノロジーを開発したいと考えている人々が必要です。
 
 ＃＃ 現在のプロジェクト
 - コスモラング アーキテクチャ研究所 (CARL)
@@ -219,7 +219,7 @@ Cosmolang の ISPL を使用すると、開発者は、統合された一貫し�
 
 # 國際程式語言理解協會宇宙實驗室
 
-> **注意：**：我們需要願意與我們一起崩潰並開發新技術的人。
+> **注意：**我們需要願意與我們一起崩潰並開發新技術的人。
 
 ＃＃ 當前項目
 - Cosmolang 建築研究實驗室 (CARL)
