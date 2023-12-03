@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Duy Nam
 
 Other languages:
-- [GERMAN / Deutsch](#internationale-gesellschaft-des-cosmo-universe-labotorium-(Verband))
-- [French / Française][]
+- [GERMAN / Deutsch](#internationale-gesellschaft-des-cosmo-universe-labotorium-verband)
+- [French / Française](#société-internationale-du-laboratoire-cosmo-univers-association)
 - [JAPANESE / 日本語](#コスモユニバース研究所-国際協会)
 - [CHINESE / 中國人](#國際程式語言理解協會宇宙實驗室)
 
