@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Duy Nam
+![Cosmo Universe Project Banner](https://github.com/Cosmo-Universe/.github/blob/main/profile/CUP_Banner.png)
+
+## Hi there 👋 I'm DevKiD
 
 Other languages:
 - [GERMAN / Deutsch](#internationale-gesellschaft-des-cosmo-universe-labotorium-verband)
