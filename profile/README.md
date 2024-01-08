@@ -1,4 +1,4 @@
-![Cosmo Universe Project Banner](https://github.com/Cosmo-Universe/.github/blob/main/profile/CUP_Banner.png)
+![Cosmo Universe Project Banner](https://github.com/Cosmo-Universe/.github/blob/main/profile/CUP_Banner2.png)
 
 ## Hi there 👋 I'm DevKiD
 
